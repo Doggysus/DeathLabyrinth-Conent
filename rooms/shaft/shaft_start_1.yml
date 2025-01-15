@@ -1,0 +1,28 @@
+room_size:
+  x: 32.0
+  y: 24.0
+  z: 32.0
+entrance_offset:
+  x: 0.0
+  y: -7.0
+  z: -12.0
+exit_offset:
+  x: 32.0
+  y: 7.0
+  z: 12.0
+room_type: "START_ROOM"
+location_type: "SHAFT"
+pot_spawns: []
+start_processes: []
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.AlwaysCompletion> {}
+tick_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tick.HeightMinLimit>
+  height: 3
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.StartRoomSpawnOffset>
+  offset:
+    x: 16.0
+    y: 7.5
+    z: 16.0
+

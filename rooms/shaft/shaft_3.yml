@@ -1,0 +1,89 @@
+room_size:
+  x: 32.0
+  y: 32.0
+  z: 32.0
+entrance_offset:
+  x: 0.0
+  y: -2.0
+  z: -12.0
+exit_offset:
+  x: 32.0
+  y: 2.0
+  z: 12.0
+room_type: "NORMAL"
+location_type: "SHAFT"
+pot_spawns:
+- x: 1.0
+  y: 9.0
+  z: 1.0
+- x: 2.0
+  y: 9.0
+  z: 30.0
+- x: 30.0
+  y: 10.0
+  z: 30.0
+- x: 13.0
+  y: 2.0
+  z: 20.0
+- x: 28.0
+  y: 8.0
+  z: 3.0
+- x: 15.0
+  y: 2.0
+  z: 11.0
+start_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.start.SpawnEntitiesProcess> {}
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.EntityCompletionCheck> {}
+tick_processes: []
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.EntitiesPool>
+  room_entities:
+  - - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 10.971622803967955
+        y: 1.3014838705365896
+        z: 10.010024369207585
+    - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 13.920730481958735
+        y: 1.3014838705365896
+        z: 7.015789495904016
+    - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 18.91875795653954
+        y: 1.3014838705365896
+        z: 8.10345616721007
+    - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 22.345229066540725
+        y: 1.3014838705365896
+        z: 23.034225422368678
+    - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 12.910994207119051
+        y: 1.565295864712347
+        z: 23.781488103759926
+    - entity_name: "skeleton_archer"
+      require_kill: true
+      spawn_position:
+        x: 3.525195479190737
+        y: 8.0
+        z: 28.511525001053656
+    - entity_name: "skeleton_archer"
+      require_kill: true
+      spawn_position:
+        x: 29.46711920556615
+        y: 8.0
+        z: 4.541799308503499
+    - entity_name: "skeleton_miner"
+      require_kill: true
+      spawn_position:
+        x: 18.710545670849292
+        y: 1.6428866607767638
+        z: 25.14689530829027

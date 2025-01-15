@@ -1,0 +1,54 @@
+room_size:
+  x: 64.0
+  y: 40.0
+  z: 64.0
+entrance_offset:
+  x: 0.0
+  y: -10.0
+  z: -44.0
+exit_offset:
+  x: 64.0
+  y: 10.0
+  z: 12.0
+room_type: "CHALLENGE"
+location_type: "SHAFT"
+pot_spawns: []
+start_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.start.SpawnFollowMinecart>
+  offset:
+    x: 7.6
+    y: 10.5
+    z: 47.0
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.FollowMinecartExcept>
+  offset:
+    x: 56.0
+    y: 10.0
+    z: 15.0
+  zoneSize:
+    x: 1.0
+    y: 1.0
+    z: 1.0
+tick_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tick.HeightMinLimit>
+  height: 7
+- !<me.zaksen.deathLabyrinth.game.room.logic.tick.SpawnEntitiesByTimeNearMinecart>
+  maxSpawnTicks: 80
+  maxSpawnEntities: 5
+  spawnRadius: 3
+  spawnTicks: 80
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.EntitiesPool>
+  room_entities:
+  - - entity_name: "skeleton_miner"
+      require_kill: false
+      spawn_position:
+        x: 18.5
+        y: 6.0
+        z: 16.0
+    - entity_name: "skeleton_warrior"
+      require_kill: false
+      spawn_position:
+        x: 18.5
+        y: 6.0
+        z: 16.0

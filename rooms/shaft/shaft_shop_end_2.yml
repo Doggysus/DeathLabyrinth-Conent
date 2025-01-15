@@ -1,0 +1,35 @@
+room_size:
+  x: 32.0
+  y: 25.0
+  z: 32.0
+entrance_offset:
+  x: 0.0
+  y: -8.0
+  z: -12.0
+exit_offset:
+  x: 32.0
+  y: 8.0
+  z: 12.0
+room_type: "SHOP_END"
+location_type: "SHAFT"
+pot_spawns: []
+start_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.start.SpawnEntitiesProcess> {}
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.AlwaysCompletion> {}
+tick_processes: []
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.EntitiesPool>
+  room_entities:
+  - - entity_name: "alchemist_trader"
+      require_kill: false
+      spawn_position:
+        x: 15.0
+        y: 9.0
+        z: 3.0
+    - entity_name: "artifacts_trader"
+      require_kill: false
+      spawn_position:
+        x: 26.0
+        y: 9.0
+        z: 29.0

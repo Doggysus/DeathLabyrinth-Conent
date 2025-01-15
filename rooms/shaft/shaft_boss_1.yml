@@ -1,0 +1,31 @@
+room_size:
+  x: 48.0
+  y: 34.0
+  z: 48.0
+entrance_offset:
+  x: 0.0
+  y: -9.0
+  z: -20.0
+exit_offset:
+  x: 48.0
+  y: 9.0
+  z: 20.0
+room_type: "BOSS"
+location_type: "SHAFT"
+pot_spawns: []
+start_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.start.SpawnEntitiesProcess> {}
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.EntityCompletionCheck> {}
+tick_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tick.HeightMinLimit>
+  height: 6
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.EntitiesPool>
+  room_entities:
+  - - entity_name: "bomber_boss"
+      require_kill: true
+      spawn_position:
+        x: 24.0
+        y: 10.5
+        z: 24.0

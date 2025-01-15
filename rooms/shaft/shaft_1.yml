@@ -1,0 +1,68 @@
+room_size:
+  x: 48.0
+  y: 32.0
+  z: 32.0
+entrance_offset:
+  x: 0.0
+  y: -1.0
+  z: -12.0
+exit_offset:
+  x: 48.0
+  y: 1.0
+  z: 12.0
+room_type: "NORMAL"
+location_type: "SHAFT"
+pot_spawns:
+- x: 35.0
+  y: 8.0
+  z: 10.0
+- x: 36.0
+  y: 8.0
+  z: 26.0
+- x: 21.0
+  y: 9.0
+  z: 22.0
+- x: 21.0
+  y: 9.0
+  z: 10.0
+- x: 9.0
+  y: 8.0
+  z: 6.0
+- x: 3.0
+  y: 9.0
+  z: 22.0
+- x: 9.0
+  y: 1.0
+  z: 10.0
+- x: 25.0
+  y: 1.0
+  z: 22.0
+- x: 45.0
+  y: 1.0
+  z: 11.0
+- x: 28.0
+  y: 1.0
+  z: 9.0
+- x: 45.0
+  y: 1.0
+  z: 20.0
+start_processes:
+- !<me.zaksen.deathLabyrinth.game.room.logic.start.SpawnEntitiesProcess> {}
+completion_condition:
+- !<me.zaksen.deathLabyrinth.game.room.logic.completion.EntityCompletionCheck> {}
+tick_processes: []
+tags:
+- !<me.zaksen.deathLabyrinth.game.room.logic.tags.EntitiesPool>
+  room_entities:
+  - - entity_name: "bone_wolf"
+      require_kill: true
+      spawn_position:
+        x: 24.0
+        y: 2.0
+        z: 14.0
+    - entity_name: "big_bone_wolf"
+      require_kill: true
+      spawn_position:
+        x: 24.0
+        y: 2.0
+        z: 18.0
