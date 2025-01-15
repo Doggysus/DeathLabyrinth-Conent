@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/apple"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 100 }, "model": "dl:item/green_heart" },
+      { "predicate": { "custom_model_data": 101 }, "model": "dl:item/speed_potion" },
+      { "predicate": { "custom_model_data": 102 }, "model": "dl:item/blood_lust" },
+      { "predicate": { "custom_model_data": 103 }, "model": "dl:item/rusty_dagger" },
+      { "predicate": { "custom_model_data": 104 }, "model": "dl:item/red_jar" },
+      { "predicate": { "custom_model_data": 105 }, "model": "dl:item/mirror_of_revenge" },
+      { "predicate": { "custom_model_data": 106 }, "model": "dl:item/mossy_skull" },
+      { "predicate": { "custom_model_data": 107 }, "model": "dl:item/token" },
+      { "predicate": { "custom_model_data": 108 }, "model": "dl:item/gasoline" },
+      { "predicate": { "custom_model_data": 109 }, "model": "dl:item/wooden_shield" },
+      { "predicate": { "custom_model_data": 110 }, "model": "dl:item/little_bomb" },
+      { "predicate": { "custom_model_data": 111 }, "model": "dl:item/explosive_mix" },
+      { "predicate": { "custom_model_data": 112 }, "model": "dl:item/snowflake" },
+      { "predicate": { "custom_model_data": 113 }, "model": "dl:item/fantom_cape" },
+      { "predicate": { "custom_model_data": 114 }, "model": "dl:item/holy_mantle" },
+      { "predicate": { "custom_model_data": 115 }, "model": "dl:item/vampire_fangs" },
+      { "predicate": { "custom_model_data": 116 }, "model": "dl:item/magnifying_glass" },
+      { "predicate": { "custom_model_data": 117 }, "model": "dl:item/spiky_ball" },
+      { "predicate": { "custom_model_data": 118 }, "model": "dl:item/divine_orb" },
+      { "predicate": { "custom_model_data": 119 }, "model": "dl:item/shackles" },
+      { "predicate": { "custom_model_data": 120 }, "model": "dl:item/jar_of_slime" },
+      { "predicate": { "custom_model_data": 121 }, "model": "dl:item/taser" },
+      
+      { "predicate": { "custom_model_data": 1000 }, "model": "dl:item/greediness" }
+    ]
+  }

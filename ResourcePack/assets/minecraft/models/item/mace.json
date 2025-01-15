@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/mace"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 1000 }, "model": "dl:item/wooden_hammer" },
+      { "predicate": { "custom_model_data": 1001 }, "model": "dl:item/golden_hammer" },
+      { "predicate": { "custom_model_data": 1002 }, "model": "dl:item/stone_hammer" },
+      { "predicate": { "custom_model_data": 1003 }, "model": "dl:item/iron_hammer" },
+      { "predicate": { "custom_model_data": 1004 }, "model": "dl:item/diamond_hammer" },
+      { "predicate": { "custom_model_data": 1005 }, "model": "dl:item/netherite_hammer" }
+    ]
+  }

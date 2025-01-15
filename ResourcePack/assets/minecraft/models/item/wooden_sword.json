@@ -1,0 +1,68 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "dl:item/wooden_dagger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "dl:item/wooden_spear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "dl:item/fire_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "dl:item/wind_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "dl:item/narwhal_horn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "dl:item/dynamite_stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "dl:item/noble_gladius"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "dl:item/pirate_saber"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "dl:item/meat_bat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "dl:item/cooked_meat_bat"
+    }
+  ]
+}

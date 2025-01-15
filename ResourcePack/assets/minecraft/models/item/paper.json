@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 100 }, "model": "dl:item/artifacts" },
+      { "predicate": { "custom_model_data": 200 }, "model": "dl:item/not_ready" },
+      { "predicate": { "custom_model_data": 201 }, "model": "dl:item/ready" },
+      { "predicate": { "custom_model_data": 250 }, "model": "dl:item/left_arrow" },
+      { "predicate": { "custom_model_data": 251 }, "model": "dl:item/left_arrow_off" },
+      { "predicate": { "custom_model_data": 252 }, "model": "dl:item/right_arrow" },
+      { "predicate": { "custom_model_data": 253 }, "model": "dl:item/right_arrow_off" },
+      { "predicate": { "custom_model_data": 1000 }, "model": "dl:item/artifacts_card" },
+      { "predicate": { "custom_model_data": 1001 }, "model": "dl:item/artifacts_card_highlighted" },
+      { "predicate": { "custom_model_data": 1500 }, "model": "dl:item/game_cards" },
+      { "predicate": { "custom_model_data": 1501 }, "model": "dl:item/chip" },
+      { "predicate": { "custom_model_data": 2000 }, "model": "dl:item/skull_normal" },
+      { "predicate": { "custom_model_data": 2001 }, "model": "dl:item/skull_elite" },
+      { "predicate": { "custom_model_data": 2002 }, "model": "dl:item/skull_boss" },
+      { "predicate": { "custom_model_data": 2003 }, "model": "dl:item/challenge" },
+      { "predicate": { "custom_model_data": 2004 }, "model": "dl:item/shop" },
+      { "predicate": { "custom_model_data": 2005 }, "model": "dl:item/forge" },
+      { "predicate": { "custom_model_data": 2005 }, "model": "dl:item/treasure" }
+    ]
+  }
