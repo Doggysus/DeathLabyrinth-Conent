@@ -1,0 +1,48 @@
+{
+    "providers": [
+		{
+            "type": "ttf",
+            "file": "dl:monocraft.ttf",
+            "shift": [0, 0],
+			"size": 8.0,
+			"oversample": 8.0,
+			"height": 8
+        },
+		{
+			"type": "bitmap",
+            "file": "dl:custom/coin.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE000"
+			]
+		},
+        {
+			"type": "bitmap",
+            "file": "dl:custom/star.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE001"
+			]
+		},
+        {
+			"type": "bitmap",
+            "file": "dl:custom/gray_star.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE002"
+			]
+		},
+        {
+			"type": "bitmap",
+            "file": "dl:custom/crown.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				"\uE003"
+			]
+		}
+    ]
+}

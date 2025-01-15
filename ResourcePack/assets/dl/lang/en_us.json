@@ -1,0 +1,578 @@
+{
+    "----------- ITEMS -----------": "",
+
+    "item.wooden_dagger.name": "Wooden dagger",
+    "item.wooden_sword.name": "Wooden sword",
+    "item.wooden_hammer.name": "Wooden hammer",
+    "item.wooden_spear.name": "Wooden spear",
+
+    "item.golden_dagger.name": "Golden dagger",
+    "item.golden_sword.name": "Golden sword",
+    "item.golden_hammer.name": "Golden hammer",
+    "item.golden_spear.name": "Golden spear",
+
+    "item.stone_dagger.name": "Stone dagger",
+    "item.stone_sword.name": "Stone sword",
+    "item.stone_hammer.name": "Stone hammer",
+    "item.stone_spear.name": "Stone spear",
+
+    "item.iron_dagger.name": "Iron dagger",
+    "item.iron_sword.name": "Iron sword",
+    "item.iron_hammer.name": "Iron hammer",
+    "item.iron_spear.name": "Iron spear",
+
+    "item.diamond_dagger.name": "Diamond dagger",
+    "item.diamond_sword.name": "Diamond sword",
+    "item.diamond_hammer.name": "Diamond hammer",
+    "item.diamond_spear.name": "Diamond spear",
+
+    "item.netherite_dagger.name": "Netherite dagger",
+    "item.netherite_sword.name": "Netherite sword",
+    "item.netherite_hammer.name": "Netherite hammer",
+    "item.netherite_spear.name": "Netherite spear",
+
+    "item.fish_sword.name": "Swordfish",
+    "item.fire_sword.name": "Fire sword",
+    "item.wind_sword.name": "Wind sword",
+    "item.narwhal_horn.name": "Narwhal's horn",
+    "item.dynamite_stick.name": "Dynamite stick",
+    "item.noble_gladius.name": "Noble gladius",
+    "item.pirate_saber.name": "Pirate's saber",
+    "item.meat_bat.name": "Meat club",
+    "item.cooked_meat_bat.name": "Cooked meat club",
+
+    "item.bone.name": "Bone",
+    "item.bone.lore.0": "Too bad skeletons can't tell jokes....",
+
+    "item.bottle.name": "Bottle",
+    "item.bottle.lore.0": "It's empty, but one day, it will be filled.",
+
+    "item.flesh.name": "Flesh",
+    "item.flesh.lore.0": "Stretchy, like rubber.....",
+
+    "item.gunpowder.name": "Gunpowder",
+    "item.gunpowder.lore.0": "Don't put a match to it!",
+
+    "item.shield.name": "Shield",
+
+    "item.small_heal_potion.name": "Small heal potion",
+    "item.heal_potion.name": "Heal potion",
+    "item.madmans_potion.name": "Madman's potion",
+    "item.potion_of_shambles.name": "Potion of shambles",
+    "item.blood_harvest_potion.name": "Blood harvest potion [WIP]",
+
+    "item.game_cards.name": "Game cards",
+    "item.chip.name": "Chip",
+
+    "item.healing_staff.name": "Healing staff",
+    "item.big_healing_staff.name": "Holy healing staff",
+    "item.electric_staff.name": "Shocking staff",
+    "item.laser_staff.name": "Laser staff",
+    "item.fireball_staff.name": "Warming staff",
+    "item.big_fireball_staff.name": "Burning staff",
+    "item.necromantic_staff.name": "Necromantic staff",
+    "item.witherball_staff.name": "Drought staff",
+    "item.big_witherball_staff.name": "Exhausting staff",
+    "item.frostball_staff.name": "Frosty staff",
+    "item.big_frostball_staff.name": "Freezing staff",
+    "item.wind_charge_staff.name": "Wind staff",
+    "item.fire_flow_staff.name": "Fire Stream Staff",
+    "item.deep_forest_staff.name": "Forest depths staff",
+    "item.explosion_staff.name": "Explosion staff",
+    "item.sculk_staff.name": "Sculk staff",
+
+    "item.lore.weapon.type": "Type: %s",
+    "item.lore.cooldown": "Cooldown: %s s.",
+    "item.lore.damage": "Damage: %s",
+
+    "item.weapon.type.sword": "Sword",
+    "item.weapon.type.hammer": "Hammer",
+    "item.weapon.type.dagger": "Dagger",
+    "item.weapon.type.spear": "Spear",
+
+    "item.weapon.type.staff_attack": "Staff (Attack)",
+    "item.weapon.type.staff_other": "Staff (Other)",
+
+    "item.ready.name": "Ready",
+    "item.not_ready.name": "Not ready",
+
+    "item.leather_helmet.name": "Leather helmet",
+    "item.leather_chestplate.name": "Leather chestplate",
+    "item.leather_leggings.name": "Leather leggings",
+    "item.leather_boots.name": "Leather boots",
+
+    "item.golden_helmet.name": "Golden helmet",
+    "item.golden_chestplate.name": "Gold enchestplate",
+    "item.golden_leggings.name": "Golden leggings",
+    "item.golden_boots.name": "Golden boots",
+
+    "item.chainmail_helmet.name": "Chainmail helmet",
+    "item.chainmail_chestplate.name": "Chainmail chestplate",
+    "item.chainmail_leggings.name": "Chainmail leggings",
+    "item.chainmail_boots.name": "Chainmail boots",
+
+    "item.iron_helmet.name": "Iron helmet",
+    "item.iron_chestplate.name": "Iron chestplate",
+    "item.iron_leggings.name": "Iron leggings",
+    "item.iron_boots.name": "Iron boots",
+
+    "item.diamond_helmet.name": "Diamond helmet",
+    "item.diamond_chestplate.name": "Diamond chestplate",
+    "item.diamond_leggings.name": "Diamond leggings",
+    "item.diamond_boots.name": "Diamond boots",
+
+    "item.netherite_helmet.name": "Netherite helmet",
+    "item.netherite_chestplate.name": "Netherite chestplate",
+    "item.netherite_leggings.name": "Netherite leggings",
+    "item.netherite_boots.name": "Netherite boots",
+
+    "item.amulet_of_greed.name": "Amulet of greed",
+    "item.amulet_of_greed.effect": "Increases the number of items in pots by 2, with a 20% chance you will find an artifact instead of an item",
+
+    "item.speedsters_amulet.name": "The speedster's amulet",
+    "item.speedsters_amulet.effect": "Increases ability cooldown speed by 15%",
+
+    "item.scoundrels_amulet.name": "Scoundrel's amulet",
+    "item.scoundrels_amulet.effect": "If you are not a target for an enemy, you deal 30% more damage to them, but any damage to you is increased by 10%",
+
+    "item.brave_mans_amulet.name": "Brave man's amulet",
+    "item.brave_mans_amulet.effect": "If you are a target for an enemy, you deal 30% more damage to them and take 10% less damage",
+
+    "item.amulet_of_poverty.name": "The amulet of poverty",
+    "item.amulet_of_poverty.effect": "You get 30% less coins for passing rooms, but you also take 60% less damage",
+    
+    "----------- ARTIFACTS -----------": "",
+    
+    "artifact.greediness.name": "Greediness",
+    "artifact.greediness.lore.0": "You get %s more gold for passing rooms, but %s more monsters appear in the rooms",
+
+    "artifact.blood_lust.name": "Blood lust",
+    "artifact.blood_lust.lore.0": "Increases damage by %s",
+
+    "artifact.green_heart.name": "Green heart",
+    "artifact.green_heart.lore.0": "Restores %s health for each room passed",
+
+    "artifact.jewel.name": "Jewel",
+    "artifact.jewel.lore.0": "Increases spell damage by %s",
+
+    "artifact.mystic_potion.name": "Mystic potion",
+    "artifact.mystic_potion.lore.0": "Increases speed by %s",
+
+    "artifact.rusty_dagger.name": "Rusty dagger",
+    "artifact.rusty_dagger.lore.0": "Increases the damage of every third hit by %s",
+
+    "artifact.mirror_of_revenge.name": "Mirror of revenge",
+    "artifact.mirror_of_revenge.lore.0": "When taking damage, deals %s damage to the attacker",
+
+    "artifact.mossy_skull.name": "Mossy skull",
+    "artifact.mossy_skull.lore.0": "Increases the number of summoned mobs by %s and their damage by %s",
+
+    "artifact.token.name": "Token",
+    "artifact.token.lore.0": "You get %s coins for killing a monster",
+
+    "artifact.gasoline.name": "Gasoline",
+    "artifact.gasoline.lore.0": "Elemental fire damage increased by %s",
+
+    "artifact.wooden_shield.name": "Wooden shield",
+    "artifact.wooden_shield.lore.0": "When hitting an enemy, it gives you %s of your health as a temporary shield",
+
+    "artifact.little_bomb.name": "Bomby",
+    "artifact.little_bomb.lore.0": "When killing a mob, there is a %s chance to create an explosion",
+
+    "artifact.explosive_mix.name": "Explosive mix",
+    "artifact.explosive_mix.lore.0": "Increases explosion damage by %s and increases explosion radius by %s",
+
+    "artifact.totem_of_undying.name": "Totem of undying",
+    "artifact.totem_of_undying.lore.0": "Saves you from death, disappears when used(%s remaining)",
+
+    "artifact.snowflake.name": "Snowflake",
+    "artifact.snowflake.lore.0": "Increases the duration of slowness by %s and its strength by %s",
+
+    "artifact.fantom_cape.name": "Fantom cape",
+    "artifact.fantom_cape.lore.0": "There is a %s (max. 50 percent) chance to dodge an attack, gives a temporary speed boost when dodging",
+
+    "artifact.holy_mantle.name": "Holy mantle",
+    "artifact.holy_mantle.lore.0": "Increases the base value of your temporary shield by %s (max. 50 percent of health)",
+
+    "artifact.vampire_fangs.name": "Vampire fangs",
+    "artifact.vampire_fangs.lore.0": "When killing an enemy, there is a 25 percent chance to restore %s of health",
+
+    "artifact.magnifying_glass.name": "Magnifying glass",
+    "artifact.magnifying_glass.lore.0": "Pots drop %s more items.",
+
+    "artifact.spike_ball.name": "Spikeball",
+    "artifact.spike_ball.lore.0": "Within a radius of %s blocks, increases damage by %s",
+
+    "artifact.divine_orb.name": "Divine orb",
+    "artifact.divine_orb.lore.0": "Deals %s damage to enemies within %s blocks every %s seconds",
+
+    "artifact.shackles.name": "Shackles",
+    "artifact.shackles.lore.0": "Reduces movement speed and damage dealt by %s (max. 90 percent)",
+
+    "artifact.jar_of_slime.name": "Jar of slime",
+    "artifact.jar_of_slime.lore.0": "When killing a monster, there is a %s chance (max 25 percent) of turning it into a slug that distracts enemies",
+
+    "artifact.taser.name": "Taser",
+    "artifact.taser.lore.0": "When dealing damage, there is a %s chance to create a lightning bolt that strikes %s of enemies, dealing %s of damage",
+    "artifact.taser.lore.1": "Cannot trigger more than once every 0.5 seconds",
+
+    "artifact.boxing_glove.name": "Boxing glove",
+    "artifact.boxing_glove.lore.0": "Throws an enemy and stuns him for %s seconds (does not work on abilities)",
+
+    "----------- TEXT -----------": "",
+
+    "ui.artifacts.name": "Open the list of artifacts",
+    "ui.accessories.name": "Browse accessories",
+
+    "ui.button.page.next_page": "Next page",
+    "ui.button.page.previous_page": "Previous page",
+
+    "ui.button.page.first_page": "You're on the first page",
+    "ui.button.page.last_page": "You're on the last page",
+
+    "ui.button.page.go_to": "Go to page: %s",
+
+    "ui.class_choice.title": "Class choice",
+
+    "ui.shop.item_count.buy": "Available: %s",
+    "ui.shop.item_count.sell": "Purchases: %s",
+    "ui.shop.item_count.empty.buy": "Out of stock",
+    "ui.shop.item_count.empty.sell": "No more accepted",
+
+    "ui.game.starting": "Starting in: %s",
+    "ui.game.starting.stopped": "Waiting interrupted!",
+
+    "ui.game.win": "You win!",
+    "ui.game.lose": "Game over!",
+
+    "ui.game.death": "You die!",
+
+    "ui.item.wrong_class": "You can't use this item!",
+
+    "ui.slot.empty.name": "Empty slot",
+    "ui.slot.empty.description": "You can insert something here",
+
+    "text.item.abilities": "Abilities:",
+
+    "text.accessory.on_equip": "When wearing:",
+
+    "text.game.close_class_menu": "If you closed the class selection menu before selecting a class, you can reopen it with the /class command",
+    "text.game.choice_class": "%s select class %s!",
+
+    "text.game.not_started": "You need start game!",
+    "text.game.class_name": "Your class: %s",
+
+    "text.game.success_reload": "Success reload!",
+
+    "text.game.room_not_found": "Room not found!",
+    "text.game.select_pots_num": "Include the room name and number of pots!",
+    "text.game.select_pots_not_num": "Indicate the number of pots as a number!",
+
+    "text.command.custom_summon.entity_not_found": "The specified entity was not found!",
+    "text.command.custom_summon.entity_not_specified": "Specify the name of the entity!",
+
+    "text.command.status.status": "Status: %s",
+    "text.command.status.players": "Players:",
+    "text.command.status.player": "- %s",
+
+    "text.blacksmith.wrong_recipe.name": "Wrong recipe",
+    "text.blacksmith.wrong_recipe.description": "These items cannot be combined",
+
+    "text.command.artifact_summon.artifact_not_found": "The specified artifact was not found!",
+    "text.command.artifact_summon.artifact_not_specified": "Specify the name of the artifact!",
+
+    "artifact.red_jar.name": "Red jar",
+    "artifact.red_jar.lore.0": "Increases health by %s units",
+
+    "text.review_player.name": "Revive a player",
+    "text.review_player.description": "When resurrected, you will spend half your health and %s of coins",
+    "text.review_player.description.players": "One of these players will be resurrected:",
+
+    "ui.item_tab.title": "Item list",
+    "ui.synergies.title": "Synergies",
+
+    "ui.trader_menu.title": "󏿸\uE100",
+    "ui.artifacts_menu.title": "󏿸\uE101",
+    "ui.blacksmith_menu.title": "󏿸\uE102",
+    "ui.necromancer_menu.title": "󏿸\uE103",
+    "ui.accessory.title": "󏿸\uE104",
+
+    "----------- CLASSES -----------": "",
+
+    "class.mage.name": "Mage",
+    "class.warrior.name": "Warrior",    
+    
+    "----------- ENTITIES -----------": "",
+
+    "entity.wolf.name": "Wolf",
+    "entity.big_wolf.name": "Big wolf",
+
+    "entity.vindicator_one.name": "Vindicator",
+    "entity.vindicator_two.name": "Vindicator",
+
+    "entity.druid.name": "Druid",
+
+    "entity.skeleton.name": "Skeleton",
+    "entity.skeleton_archer.name": "Skeleton archer",
+    "entity.skeleton_miner.name": "Skeleton miner",
+    "entity.skeleton_warrior.name": "Skeleton warrior",
+    "entity.skeleton_trader.name": "Skeleton trader",
+
+    "entity.mouse.name": "Mouse",
+    "entity.big_mouse.name": "Big mouse",
+
+    "entity.ravager.name": "Ravager",
+    "entity.big_ravager.name": "Ravager",
+
+    "entity.pillager.name": "Pillager",
+
+    "entity.piggy_bank.name": "Piggy bank",
+
+    "entity.iron_golem.name": "Golem",
+    "entity.big_iron_golem.name": "Golem",
+
+    "entity.deceased.name": "Deceased",
+
+    "entity.friendly_skeleton.name": "Призванный скелет",
+
+    "entity.sizzy.name": "Sizzy",
+
+    "entity.enderman.name": "Enderman",
+    "entity.speedy_enderman.name": "Enderman",
+    "entity.strong_enderman.name": "Enderman",
+
+    "entity.bomber.name": "Bomber",
+    "entity.anceint.name": "Ancient",
+    "entity.unburied_soul.name": "Unburied soul",
+
+    "entity.zombie_trader.name": "Zombie trader",
+
+    "entity.alchemist_trader.name": "Alchemist",
+
+    "entity.artifacts_trader.name": "Artifacts trader",
+
+    "entity.blacksmith.name": "Blacksmith",
+
+    "entity.necromancer.name": "Necromancer",
+
+    "entity.blob.name": "Blob",
+
+    "----------- DAMAGE TYPE -----------": "",
+
+    "damage_type.general.name": "General",
+    "damage_type.fire.name": "Fire",
+    "damage_type.water.name": "Water",
+    "damage_type.wither.name": "Wither",
+    "damage_type.explode.name": "Explode",
+    "damage_type.sculk.name": "Sculk",
+
+    "----------- ITEM ABILITIES - STUFF -----------": "",
+
+    "ability.damage": "Damage: %s",
+    "ability.range": "Radius: %s",
+    "ability.damage_type": "Damage type: %s",
+
+    "ability.waterball_cast.name": "Waterball",
+    "ability.waterball_cast.description": "When the item is used, it summons a magic ball",
+
+    "ability.fireball_cast.name": "Fireball",
+    "ability.fireball_cast.description": "When the item is used, it summons a magic ball that sets enemies in a small radius on fire",
+
+    "ability.big_fireball_cast.name": "Big fireball",
+    "ability.big_fireball_cast.description": "When used, the item summons a magic ball that sets enemies in a large radius on fire",
+
+    "ability.frostball_cast.name": "Frostball",
+    "ability.frostball_cast.description": "When used, the item summons a magic ball that slows down enemies in a small radius",
+
+    "ability.big_frostball_cast.name": "Big frostball",
+    "ability.big_frostball_cast.description": "When used, the item summons a magic ball that slows down enemies in a large radius",
+
+    "ability.witherball_cast.name": "Witherball",
+    "ability.witherball_cast.description": "When used, the item summons a magical orb that dries out enemies within a small radius.",
+
+    "ability.big_witherball_cast.name": "Big witherball",
+    "ability.big_witherball_cast.description": "When used, the item summons a magical orb that dries out enemies within a large radius.",
+
+    "ability.healing_cast.name": "Healing",
+    "ability.healing_cast.description": "When used, the item restores a certain amount of health to its owner",
+
+    "ability.big_healing_cast.name": "Large healing",
+    "ability.big_healing_cast.description": "When used, the item restores a certain amount of health to all players within a medium radius",
+
+    "ability.electric_cast.name": "Electrical circuit",
+    "ability.electric_cast.description": "When the item is used, it electrocutes several nearby enemies",
+
+    "ability.explosion_chain_cast.name": "Explosive circuit",
+    "ability.explosion_chain_cast.description": "When the item is used, it blows up several nearby enemies",
+
+    "ability.electric_cast_tier_two.name": "Electrical circuit +",
+    "ability.electric_cast_tier_two.description": "When the item is used, it electrocutes several nearby enemies",
+
+    "ability.electric_cast_tier_three.name": "Electrical circuit ++",
+    "ability.electric_cast_tier_three.description": "When the item is used, it electrocutes several nearby enemies",
+
+    "ability.laser_cast.name": "Laser",
+    "ability.laser_cast.description": "When you use the item, it attacks the enemy in front of you with a laser attack",
+
+    "ability.fire_laser_cast.name": "Fire laser",
+    "ability.fire_laser_cast.description": "When you use the item, it attacks the enemy in front of you with a laser attack",
+
+    "ability.frost_laser_cast.name": "Frost laser",
+    "ability.frost_laser_cast.description": "When you use the item, it attacks the enemy in front of you with a laser attack",
+
+    "ability.wither_laser_cast.name": "Wither laser",
+    "ability.wither_laser_cast.description": "When you use the item, it attacks the enemy in front of you with a laser attack",
+
+    "ability.healing_laser_cast.name": "Healing laser",
+    "ability.healing_laser_cast.description": "When used, the item heals the creature in front of you",
+
+    "ability.necromantic_cast.name": "Necromancy",
+    "ability.necromantic_cast.description": "Summons skeleton archers to aid you in battle",
+
+    "ability.wither_necromantic_cast.name": "Hell necromancy",
+    "ability.wither_necromantic_cast.description": "Summons skeletons of exsanguinators to aid you in battle",
+
+    "ability.wind_charge_cast.name": "Wind charge",
+    "ability.wind_charge_cast.description": "When you use the item, it summons a wind charge",
+
+    "ability.fire_flow_cast.name": "Fire flow",
+    "ability.fire_flow_cast.description": "Releases a torrent of flame in front of you that sets enemies on fire",
+
+    "ability.explosion_flow_cast.name": "Explosion flow",
+    "ability.explosion_flow_cast.description": "Releases a blasting stream of enemies in front of you",
+
+    "ability.explosion_cast.name": "Explosion",
+    "ability.explosion_cast.description": "Creates an explosion where you're looking",
+
+    "ability.explosion_cast_tier_two.name": "Explosion +",
+    "ability.explosion_cast_tier_two.description": "Creates an explosion where you're looking",
+
+    "ability.explosion_cast_tier_three.name": "Explosion ++",
+    "ability.explosion_cast_tier_three.description": "Creates an explosion where you're looking",
+
+    "ability.frost_explosion_cast.name": "Ice explosion",
+    "ability.frost_explosion_cast.description": "Creates an explosion where you're looking",
+
+    "ability.fire_explosion_cast.name": "Fire explosion",
+    "ability.fire_explosion_cast.description": "Creates an explosion where you're looking",
+
+    "ability.wither_explosion_cast.name": "Wither explosion",
+    "ability.wither_explosion_cast.description": "Creates an explosion where you're looking",
+
+    "ability.bomb_cast.name": "Bomb",
+    "ability.bomb_cast.description": "Launches a bomb in the direction of your gaze",
+
+    "ability.bomb_cast_tier_two.name": "Bomb +",
+    "ability.bomb_cast_tier_two.description": "Launches a bombs (2) in the direction of your gaze",
+
+    "ability.bomb_cast_tier_three.name": "Bomb ++",
+    "ability.bomb_cast_tier_three.description": "Launches a bombs (3) in the direction of your gaze",
+
+    "ability.frost_bomb_cast.name": "Frost bomb",
+    "ability.frost_bomb_cast.description": "Launches a bomb that slows down enemies in the direction you are looking",
+
+    "ability.fire_bomb_cast.name": "Fire bomb",
+    "ability.fire_bomb_cast.description": "Launches a bomb that ignites enemies in the direction you are looking",
+
+    "ability.wither_bomb_cast.name": "Wither bomb",
+    "ability.wither_bomb_cast.description": "Launches a bomb that dries out enemies in the direction you are looking",
+
+    "ability.sculk_cast.name": "Echo",
+    "ability.sculk_cast.description": "Sends out a sonic wave that strikes enemies",
+
+    "----------- ITEM ABILITIES - CONSUMEABLE -----------": "",
+
+    "ability.heal_effect.name": "Heal",
+    "ability.heal_effect.description": "Restores 60% of health when consumed",
+
+    "ability.small_heal_effect.name": "Small heal",
+    "ability.small_heal_effect.description": "Restores 25% of health when consumed",
+
+    "ability.duplicate_artifacts.name": "Duplication of artifacts",
+    "ability.duplicate_artifacts.description": "Creates a duplicate of all artifacts within a radius of 32 blocks",
+
+    "ability.change_artifacts.name": "It's a mess",
+    "ability.change_artifacts.description": "Replaces all artifacts within a 32 block radius",
+
+    "ability.packing.name": "Packing",
+    "ability.packing.description": "Turns all monsters within a 20 block radius into pots",
+
+    "ability.summon_artifacts.name": "Artifact summoning",
+    "ability.summon_artifacts.description": "Creates 8 artifacts in exchange for your life",
+
+    "ability.gold_rush.name": "Gold rush",
+    "ability.gold_rush.description": "Converts all monsters within a 12 block radius into coins",
+
+    "----------- ITEM ABILITIES - WEAPON -----------": "",
+
+    "ability.area_hit.name": "Area hit",
+    "ability.area_hit.description": "Attacks all enemies within a small radius",
+
+    "ability.big_area_hit.name": "Area hit +",
+    "ability.big_area_hit.description": "Attacks all enemies within a medium radius",
+
+    "ability.huge_area_hit.name": "Area hit ++",
+    "ability.huge_area_hit.description": "Attacks all enemies within a large radius",
+
+    "ability.giant_area_hit.name": "Area hit +++",
+    "ability.giant_area_hit.description": "Attacks all enemies within a huge radius",
+
+    "ability.bubble_laser.name": "Bubble laser",
+    "ability.bubble_laser.description": "Attacks all enemies within a certain radius",
+
+    "ability.fire_blade.name": "Burning blade",
+    "ability.fire_blade.description": "Ignites the enemy on impact",
+
+    "ability.wind_gust.name": "Gust of wind",
+    "ability.wind_gust.description": "Launches the player in the direction of the gaze",
+
+    "ability.narwhal_punch.name": "Narwhal's punch",
+    "ability.narwhal_punch.description": "If an enemy has less than 50% health, there is a 15% chance to instantly kill them",
+
+    "ability.dynamite_punch.name": "Explosive punch",
+    "ability.dynamite_punch.description": "Creates an explosion on impact",
+
+    "ability.robbery.name": "Robbery",
+    "ability.robbery.description": "When you kill a monster, you get 1/4 of its max health in the form of coins",
+
+    "----------- STATS -----------": "",
+
+    "stats.first.message": "Your in-game stats:",
+
+    "stats.total_damage_dealt.message": "- Total %s damage dealt",
+    "stats.total_damage_taken.message": "- Total %s damage taken",
+
+    "stats.max_onetime_damage_dealt.message": "- Maximum single damage dealt -> %s",
+    "stats.max_onetime_damage_taken.message": "- Maximum single damage taken -> %s",
+
+    "stats.total_healing_self.message": "- Healing yourself -> %s",
+    "stats.total_healing_other.message": "- Healing others -> %s",
+
+    "stats.total_entity_killed.message": "- Total monsters killed -> %s",
+
+    "stats.total_collected_artifacts.message": "- Total artifacts collected -> %s",
+
+    "stats.total_money_earned.message": "- Earned %s coins",
+    "stats.total_money_spend.message": "- Spent %s coins",
+
+    "stats.total_death_times.message": "- Deaths -> %s",
+
+    "stats.total_pots_break.message": "- Broken pots -> %s",
+
+    "stats.total_mobs_summoned.message": "- Summoned creatures -> %s",
+
+    "stats.total_item_consumed.message": "- Items used -> %s",
+
+    "----------- CHOICE -----------": "",
+
+    "choice.start.name": "",
+
+    "choice.normal.name": "Normal floor",
+    "choice.elite.name": "Reinforced floor",
+    "choice.boss.name": "Boss",
+
+    "choice.challenge.name": "Challenge",
+    "choice.shop.name": "Shop",
+    "choice.forge.name": "Forge",
+    "choice.treasure.name": "Treasury"
+}

@@ -1,0 +1,578 @@
+{
+    "----------- ITEMS -----------": "",
+
+    "item.wooden_dagger.name": "Деревянный клинок",
+    "item.wooden_sword.name": "Деревянный меч",
+    "item.wooden_hammer.name": "Деревянный молот",
+    "item.wooden_spear.name": "Деревянное копьё",
+
+    "item.golden_dagger.name": "Золотой клинок",
+    "item.golden_sword.name": "Золотой меч",
+    "item.golden_hammer.name": "Золотой молот",
+    "item.golden_spear.name": "Золотое копьё",
+
+    "item.stone_dagger.name": "Каменный клинок",
+    "item.stone_sword.name": "Каменный меч",
+    "item.stone_hammer.name": "Каменный молот",
+    "item.stone_spear.name": "Каменное копьё",
+
+    "item.iron_dagger.name": "Железный клинок",
+    "item.iron_sword.name": "Железный меч",
+    "item.iron_hammer.name": "Железный молот",
+    "item.iron_spear.name": "Железное копьё",
+
+    "item.diamond_dagger.name": "Алмазный клинок",
+    "item.diamond_sword.name": "Алмазный меч",
+    "item.diamond_hammer.name": "Алмазный молот",
+    "item.diamond_spear.name": "Алмазное копьё",
+
+    "item.netherite_dagger.name": "Незеритовый клинок",
+    "item.netherite_sword.name": "Незеритовый меч",
+    "item.netherite_hammer.name": "Незеритовый молот",
+    "item.netherite_spear.name": "Незеритовое копьё",
+
+    "item.fish_sword.name": "Рыба-меч",
+    "item.fire_sword.name": "Огненный меч",
+    "item.wind_sword.name": "Меч ветра",
+    "item.narwhal_horn.name": "Рог нарвала",
+    "item.dynamite_stick.name": "Динамит на палке",
+    "item.noble_gladius.name": "Благородный гладиус",
+    "item.pirate_saber.name": "Пиратская сабля",
+    "item.meat_bat.name": "Мясная дубина",
+    "item.cooked_meat_bat.name": "Жареная мясная дубина",
+
+    "item.bone.name": "Кость",
+    "item.bone.lore.0": "Жаль, что скелеты не умеют шутить...",
+
+    "item.bottle.name": "Бутылочка",
+    "item.bottle.lore.0": "Она пуста, но однажды её наполнят",
+
+    "item.flesh.name": "Плоть",
+    "item.flesh.lore.0": "Тянущаяся, прям как резина...",
+
+    "item.gunpowder.name": "Порох",
+    "item.gunpowder.lore.0": "Не подносите к нему спичку!",
+
+    "item.shield.name": "Щит",
+
+    "item.small_heal_potion.name": "Маленькое зелье исцеления",
+    "item.heal_potion.name": "Зелье исцеления",
+    "item.madmans_potion.name": "Зелье безумца",
+    "item.potion_of_shambles.name": "Зелье кавардака",
+    "item.blood_harvest_potion.name": "Зелье кровавой жатвы [WIP]",
+
+    "item.game_cards.name": "Игральные карты",
+    "item.chip.name": "Фишка",
+
+    "item.healing_staff.name": "Посох исцеления",
+    "item.big_healing_staff.name": "Святой посох исцеления",
+    "item.electric_staff.name": "Шокирующий посох",
+    "item.laser_staff.name": "Лазерный посох",
+    "item.fireball_staff.name": "Согревающий посох",
+    "item.big_fireball_staff.name": "Сжигающий посох",
+    "item.necromantic_staff.name": "Посох некроманта",
+    "item.witherball_staff.name": "Засушливый посох",
+    "item.big_witherball_staff.name": "Иссушающий посох",
+    "item.frostball_staff.name": "Леденящий посох",
+    "item.big_frostball_staff.name": "Замораживающий посох",
+    "item.wind_charge_staff.name": "Ветреный посох",
+    "item.fire_flow_staff.name": "Посох огненного потока",
+    "item.deep_forest_staff.name": "Посох лесных глубин",
+    "item.explosion_staff.name": "Взрывной посох",
+    "item.sculk_staff.name": "Скалковый посох",
+
+    "item.lore.weapon.type": "Тип: %s",
+    "item.lore.cooldown": "Перезарядка: %s с.",
+    "item.lore.damage": "Урон: %s",
+
+    "item.weapon.type.sword": "Меч",
+    "item.weapon.type.hammer": "Молот",
+    "item.weapon.type.dagger": "Клинок",
+    "item.weapon.type.spear": "Копьё",
+
+    "item.weapon.type.staff_attack": "Посох (Атака)",
+    "item.weapon.type.staff_other": "Посох (Прочее)",
+
+    "item.ready.name": "Готов",
+    "item.not_ready.name": "Не готов",
+
+    "item.leather_helmet.name": "Кожаный шлем",
+    "item.leather_chestplate.name": "Кожаный нагрудник",
+    "item.leather_leggings.name": "Кожаные поножи",
+    "item.leather_boots.name": "Кожаные ботинки",
+
+    "item.golden_helmet.name": "Золотой шлем",
+    "item.golden_chestplate.name": "Золотой нагрудник",
+    "item.golden_leggings.name": "Золотые поножи",
+    "item.golden_boots.name": "Золотые ботинки",
+
+    "item.chainmail_helmet.name": "Койф",
+    "item.chainmail_chestplate.name": "Кольчуга",
+    "item.chainmail_leggings.name": "Кольчужные поножи",
+    "item.chainmail_boots.name": "Кольчужные ботинки",
+
+    "item.iron_helmet.name": "Железный шлем",
+    "item.iron_chestplate.name": "Железный нагрудник",
+    "item.iron_leggings.name": "Железные поножи",
+    "item.iron_boots.name": "Железные ботинки",
+
+    "item.diamond_helmet.name": "Алмазный шлем",
+    "item.diamond_chestplate.name": "Алмазный нагрудник",
+    "item.diamond_leggings.name": "Алмазные поножи",
+    "item.diamond_boots.name": "Алмазные ботинки",
+
+    "item.netherite_helmet.name": "Незеритовый шлем",
+    "item.netherite_chestplate.name": "Незеритовый нагрудник",
+    "item.netherite_leggings.name": "Незеритовые поножи",
+    "item.netherite_boots.name": "Незеритовые ботинки",
+
+    "item.amulet_of_greed.name": "Амулет алчности",
+    "item.amulet_of_greed.effect": "Увеличивает количество предметов в горшках на 2, с шансом в 20% вместо предмета вы найдете артефакт",
+
+    "item.speedsters_amulet.name": "Амулет спидстера",
+    "item.speedsters_amulet.effect": "Увеличивает скорость перезарядки способностей на 15%",
+
+    "item.scoundrels_amulet.name": "Амулет подлеца",
+    "item.scoundrels_amulet.effect": "Если вы не являетесь целью для врага, вы наносите ему на 30% больше урона, но любой урон по вам увеличен на 10%",
+
+    "item.brave_mans_amulet.name": "Амулет храбреца",
+    "item.brave_mans_amulet.effect": "Если вы являетесь целью для врага, вы наносите ему на 30% больше урона и получаете на 10% меньше",
+
+    "item.amulet_of_poverty.name": "Амулет бедности",
+    "item.amulet_of_poverty.effect": "Вы получаете на 30% меньше монет за прохождение комнат, но так же получаете на 60% меньше урона",
+
+    "----------- ARTIFACTS -----------": "",
+    
+    "artifact.greediness.name": "Алчность",
+    "artifact.greediness.lore.0": "Вы получаете в %s больше золота за прохождение комнат, но в комнатах появляется в %s больше монстров",
+
+    "artifact.blood_lust.name": "Жажда крови",
+    "artifact.blood_lust.lore.0": "Увеличивает урон на %s",
+
+    "artifact.green_heart.name": "Зелёное сердце",
+    "artifact.green_heart.lore.0": "Восстанавливает %s здоровья за каждую пройденую комнату",
+
+    "artifact.jewel.name": "Самоцвет",
+    "artifact.jewel.lore.0": "Увеличивает урон заклинаний на %s",
+
+    "artifact.mystic_potion.name": "Мистическая настойка",
+    "artifact.mystic_potion.lore.0": "Увеличивает скорость на %s",
+
+    "artifact.rusty_dagger.name": "Ржавый клинок",
+    "artifact.rusty_dagger.lore.0": "Увеличивает урон каждого третьего удара в %s",
+
+    "artifact.mirror_of_revenge.name": "Зеркало мести",
+    "artifact.mirror_of_revenge.lore.0": "При получении урона, наносит %s урона атакующему",
+
+    "artifact.red_jar.name": "Красная cклянка",
+    "artifact.red_jar.lore.0": "Увеличивает здоровье на %s единиц",
+
+    "artifact.mossy_skull.name": "Мшистый череп",
+    "artifact.mossy_skull.lore.0": "Увеличивает количество призываемых вами существ в %s и их урон в %s",
+
+    "artifact.token.name": "Токен",
+    "artifact.token.lore.0": "Вы получаете %s монет за убитого монстра",
+
+    "artifact.gasoline.name": "Бензин",
+    "artifact.gasoline.lore.0": "Стихийный урон от огня увеличен на %s",
+
+    "artifact.wooden_shield.name": "Деревянный щит",
+    "artifact.wooden_shield.lore.0": "При ударе по врагу даёт вам %s от вашего здоровья в виде временного щита",
+
+    "artifact.little_bomb.name": "Бомбочка",
+    "artifact.little_bomb.lore.0": "При убийстве моба есть %s шанс создать взрыв",
+
+    "artifact.explosive_mix.name": "Взрывчатая смесь",
+    "artifact.explosive_mix.lore.0": "Увеличивает урон взрывов на %s и увеличивает радиус взрывов на %s",
+
+    "artifact.totem_of_undying.name": "Тотем бессмертия",
+    "artifact.totem_of_undying.lore.0": "Спасает вас от смерти, исчезает при использовании(осталось %s",
+
+    "artifact.snowflake.name": "Снежинка",
+    "artifact.snowflake.lore.0": "Увелививает длительность замедление на %s и его силу на %s",
+
+    "artifact.fantom_cape.name": "Призрачный плащ",
+    "artifact.fantom_cape.lore.0": "Шанс уклониться от атаки составляет %s (макс. 50 процентов), при уклонении дается временное увеличение скорости",
+
+    "artifact.holy_mantle.name": "Святая мантия",
+    "artifact.holy_mantle.lore.0": "Увеличивает базовое значение вашего временного щита на %s (макс. 50 процентов от здоровья)",
+
+    "artifact.vampire_fangs.name": "Клыки вампира",
+    "artifact.vampire_fangs.lore.0": "При убийстве врага есть шанс 25 процентов восполнить %s здоровья",
+
+    "artifact.magnifying_glass.name": "Лупа",
+    "artifact.magnifying_glass.lore.0": "С горшков выпадает на %s предметов больше",
+
+    "artifact.spike_ball.name": "Колючий мяч",
+    "artifact.spike_ball.lore.0": "В радиусе %s блоков, увеличивает урон на %s",
+
+    "artifact.divine_orb.name": "Божественный шар",
+    "artifact.divine_orb.lore.0": "Наносит %s урона врагам в радиусе %s блоков каждые %s секунды",
+
+    "artifact.shackles.name": "Кандалы",
+    "artifact.shackles.lore.0": "Уменьшает скорость передвижения и получаемый урон на %s (макс. 90 процентов)",
+
+    "artifact.jar_of_slime.name": "Банка слизи",
+    "artifact.jar_of_slime.lore.0": "При убийстве монстра есть %s шанс (макс. 25 процентов) превратить его в слизня, который отвлекает врагов",
+
+    "artifact.taser.name": "Электрошокер",
+    "artifact.taser.lore.0": "При нанесении урона есть %s шанс создать молнию поражающаю %s врагов, нанося им %s урона",
+    "artifact.taser.lore.1": "Не может сработать чаще чем раз в 0.5 секунд",
+
+    "artifact.boxing_glove.name": "Боксёрская перчатка",
+    "artifact.boxing_glove.lore.0": "Подбрасывает врага и оглушает его на %s секунд (не работает на способности)",
+
+    "----------- TEXT -----------": "",
+
+    "ui.artifacts.name": "Открыть список артефактов",
+    "ui.accessories.name": "Просмотреть аксесуары",
+
+    "ui.button.page.next_page": "Следующая страница",
+    "ui.button.page.previous_page": "Предыдущая страница",
+
+    "ui.button.page.first_page": "Вы на первой странице",
+    "ui.button.page.last_page": "Вы на последней странице",
+
+    "ui.button.page.go_to": "Перейти на страницу: %s",
+
+    "ui.class_choice.title": "Выбор класса",
+
+    "ui.shop.item_count.buy": "В наличии: %s",
+    "ui.shop.item_count.sell": "Покупает: %s",
+    "ui.shop.item_count.empty.buy": "Нет в наличии",
+    "ui.shop.item_count.empty.sell": "Больше не принимается",
+
+    "ui.game.starting": "Начало через: %s",
+    "ui.game.starting.stopped": "Ожидание прервано!",
+
+    "ui.game.win": "Вы выиграли!",
+    "ui.game.lose": "Игра окончена!",
+
+    "ui.slot.empty.name": "Пустой слот",
+    "ui.slot.empty.description": "Вы можете положить сюда что-то",
+
+    "ui.game.death": "Вы умерли!",
+
+    "ui.item.wrong_class": "Вы не можете пользоваться данным предметом!",
+
+    "text.item.abilities": "Способности:",
+
+    "text.accessory.on_equip": "Когда надето:",
+
+    "text.game.close_class_menu": "Если вы закрыли меню выбора класса до его выбора, его можно открыть снова командой /class",
+    "text.game.choice_class": "%s выбрал класс %s!",
+
+    "text.game.not_started": "Сначала начните игру!",
+    "text.game.class_name": "Ваш класс: %s",
+
+    "text.game.success_reload": "Перезагрузка выполнена!",
+
+    "text.game.room_not_found": "Комната не найдена!",
+    "text.game.select_pots_num": "Укажите имя комнаты и количество горшков!",
+    "text.game.select_pots_not_num": "Укажите количество горшков в виде числа!",
+
+    "text.command.custom_summon.entity_not_found": "Указанная сущьность не найдена!",
+    "text.command.custom_summon.entity_not_specified": "Укажите имя сущьности!",
+
+    "text.command.status.status": "Статус: %s",
+    "text.command.status.players": "Игроки:",
+    "text.command.status.player": "- %s",
+
+    "text.blacksmith.wrong_recipe.name": "Неверный рецепт",
+    "text.blacksmith.wrong_recipe.description": "Данные предметы невозможно объединить",
+
+    "text.command.artifact_summon.artifact_not_found": "Указанный артефакт не найден!",
+    "text.command.artifact_summon.artifact_not_specified": "Укажите имя артефакта!",
+
+    "text.review_player.name": "Воскресить игрока",
+    "text.review_player.description": "При воскрешении вы потратите половину своего здоровья и %s монет",
+    "text.review_player.description.players": "Будет воскрешен один из этих игроков:",
+
+    "ui.item_tab.title": "Список предметов",
+    "ui.synergies.title": "Синергии",
+
+    "ui.trader_menu.title": "󏿸\uE000",
+    "ui.artifacts_menu.title": "󏿸\uE001",
+    "ui.blacksmith_menu.title": "󏿸\uE002",
+    "ui.necromancer_menu.title": "󏿸\uE003",
+    "ui.accessory.title": "󏿸\uE004",
+
+    "----------- CLASSES -----------": "",
+
+    "class.mage.name": "Маг",
+    "class.warrior.name": "Воин",
+
+    "----------- ENTITIES -----------": "",
+
+    "entity.wolf.name": "Волк",
+    "entity.big_wolf.name": "Большой волк",
+
+    "entity.vindicator_one.name": "Поборник",
+    "entity.vindicator_two.name": "Поборник",
+
+    "entity.druid.name": "Друид",
+
+    "entity.skeleton.name": "Скелет",
+    "entity.skeleton_archer.name": "Скелет-лучник",
+    "entity.skeleton_miner.name": "Скелет-шахтёр",
+    "entity.skeleton_warrior.name": "Скелет-воин",
+    "entity.skeleton_trader.name": "Скелет-торговец",
+
+    "entity.mouse.name": "Мышь",
+    "entity.big_mouse.name": "Большая мышь",
+
+    "entity.ravager.name": "Разоритель",
+    "entity.big_ravager.name": "Разоритель",
+
+    "entity.pillager.name": "Разбойник",
+
+    "entity.piggy_bank.name": "Свинья копилка",
+
+    "entity.iron_golem.name": "Голем",
+    "entity.big_iron_golem.name": "Голем",
+
+    "entity.deceased.name": "Усопший",
+
+    "entity.friendly_skeleton.name": "Призванный скелет",
+
+    "entity.sizzy.name": "Шипучка",
+
+    "entity.enderman.name": "Странник края",
+    "entity.speedy_enderman.name": "Странник края",
+    "entity.strong_enderman.name": "Странник края",
+
+    "entity.bomber.name": "Подрывник",
+    "entity.anceint.name": "Древняя сущность",
+    "entity.unburied_soul.name": "Неупокоеная душа",
+
+    "entity.zombie_trader.name": "Зомби-торговец",
+
+    "entity.alchemist_trader.name": "Алхимик",
+
+    "entity.artifacts_trader.name": "Торговец артефактами",
+
+    "entity.blacksmith.name": "Кузнец",
+
+    "entity.necromancer.name": "Некромант",
+
+    "entity.blob.name": "Слизёнок",
+
+    "----------- DAMAGE TYPE -----------": "",
+
+    "damage_type.general.name": "Общий",
+    "damage_type.fire.name": "Огонь",
+    "damage_type.water.name": "Вода",
+    "damage_type.wither.name": "Иссушение",
+    "damage_type.explode.name": "Взрыв",
+    "damage_type.sculk.name": "Скалк",
+
+    "----------- ITEM ABILITIES -----------": "",
+
+    "ability.damage": "Урон: %s",
+    "ability.range": "Радиус: %s",
+    "ability.damage_type": "Тип урона: %s",
+
+    "ability.waterball_cast.name": "Водяной шар",
+    "ability.waterball_cast.description": "При использовании предмета призывает магический шар",
+
+    "ability.fireball_cast.name": "Огненный шар",
+    "ability.fireball_cast.description": "При использовании предмета призывает магический шар, поджигающий врагов в небольшой радиусе",
+
+    "ability.big_fireball_cast.name": "Большой огненный шар",
+    "ability.big_fireball_cast.description": "При использовании предмета призывает магический шар, поджигающий врагов в большом радиусе",
+
+    "ability.frostball_cast.name": "Морозный шар",
+    "ability.frostball_cast.description": "При использовании предмета призывает магический шар, замедляющий врагов в небольшой радиусе",
+
+    "ability.big_frostball_cast.name": "Большой морозный шар",
+    "ability.big_frostball_cast.description": "При использовании предмета призывает магический шар, замедляющий врагов в большом радиусе",
+
+    "ability.witherball_cast.name": "Иссушающий шар",
+    "ability.witherball_cast.description": "При использовании предмета призывает магический шар, иссушающий врагов в небольшом радиусе",
+
+    "ability.big_witherball_cast.name": "Большой иссушающий шар",
+    "ability.big_witherball_cast.description": "При использовании предмета призывает магический шар, иссушающий врагов в большом радиусе",
+
+    "ability.healing_cast.name": "Исцеление",
+    "ability.healing_cast.description": "При использовании предмета восстанавливает владельцу некоторое количество здоровья",
+
+    "ability.big_healing_cast.name": "Обширное исцеление",
+    "ability.big_healing_cast.description": "При использовании предмета восстанавливает всем игрокам в среднем радиусе некоторое количество здоровья",
+
+    "ability.electric_cast.name": "Электрическая цепь",
+    "ability.electric_cast.description": "При использовании предмета бьёт током несколько рядом стоящих врагов",
+
+    "ability.electric_cast_tier_two.name": "Электрическая цепь +",
+    "ability.electric_cast_tier_two.description": "При использовании предмета бьёт током несколько рядом стоящих врагов",
+
+    "ability.electric_cast_tier_three.name": "Электрическая цепь ++",
+    "ability.electric_cast_tier_three.description": "При использовании предмета бьёт током несколько рядом стоящих врагов",
+
+    "ability.explosion_chain_cast.name": "Взрывная цепь",
+    "ability.explosion_chain_cast.description": "При использовании предмета взрывает несколько рядом стоящих врагов",
+
+    "ability.laser_cast.name": "Лазер",
+    "ability.laser_cast.description": "При использовании предмета атакует лазером врага перед вами",
+
+    "ability.fire_laser_cast.name": "Огненный лазер",
+    "ability.fire_laser_cast.description": "При использовании предмета атакует лазером врага перед вами",
+
+    "ability.frost_laser_cast.name": "Леденной лазер",
+    "ability.frost_laser_cast.description": "При использовании предмета атакует лазером врага перед вами",
+
+    "ability.wither_laser_cast.name": "Иссушающий лазер",
+    "ability.wither_laser_cast.description": "При использовании предмета атакует лазером врага перед вами",
+
+    "ability.healing_laser_cast.name": "Исцеляющий лазер",
+    "ability.healing_laser_cast.description": "При использовании предмета исцеляет существо перед вами",
+
+    "ability.necromantic_cast.name": "Некромантия",
+    "ability.necromantic_cast.description": "Призывает скелетов-лучников, помогающих вам в бою",
+
+    "ability.wither_necromantic_cast.name": "Адская некромантия",
+    "ability.wither_necromantic_cast.description": "Призывает скелетов иссушителей, помогающих вам в бою",
+
+    "ability.wind_charge_cast.name": "Заряд ветра",
+    "ability.wind_charge_cast.description": "При использовании предмета призывает заряд ветра",
+
+    "ability.fire_flow_cast.name": "Огненный поток",
+    "ability.fire_flow_cast.description": "Выпускает поджигающий врагов поток пламени перед вами",
+
+    "ability.explosion_flow_cast.name": "Взрывной поток",
+    "ability.explosion_flow_cast.description": "Выпускает взрывающий врагов поток перед вами",
+
+    "ability.explosion_cast.name": "Взрыв",
+    "ability.explosion_cast.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.explosion_cast_tier_two.name": "Взрыв +",
+    "ability.explosion_cast_tier_two.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.explosion_cast_tier_three.name": "Взрыв ++",
+    "ability.explosion_cast_tier_three.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.frost_explosion_cast.name": "Ледянной взрыв",
+    "ability.frost_explosion_cast.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.fire_explosion_cast.name": "Огненный взрыв",
+    "ability.fire_explosion_cast.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.wither_explosion_cast.name": "Иссушающий взрыв",
+    "ability.wither_explosion_cast.description": "Создаёт взрыв в месте, куда вы смотрите",
+
+    "ability.bomb_cast.name": "Бомба",
+    "ability.bomb_cast.description": "Запускает бомбу в направлении вашего взгляда",
+
+    "ability.bomb_cast_tier_two.name": "Бомба +",
+    "ability.bomb_cast_tier_two.description": "Запускает бомбы (2 шт) в направлении вашего взгляда",
+
+    "ability.bomb_cast_tier_three.name": "Бомба ++",
+    "ability.bomb_cast_tier_three.description": "Запускает бомбы (3 шт) в направлении вашего взгляда",
+
+    "ability.frost_bomb_cast.name": "Леденная бомба",
+    "ability.frost_bomb_cast.description": "Запускает бомбу замедляющаю врагов в направлении вашего взгляда",
+
+    "ability.fire_bomb_cast.name": "Огненная бомба",
+    "ability.fire_bomb_cast.description": "Запускает бомбу поджигающаю врагов в направлении вашего взгляда",
+
+    "ability.wither_bomb_cast.name": "Иссущающая бомба",
+    "ability.wither_bomb_cast.description": "Запускает бомбу иссушающаю врагов в направлении вашего взгляда",
+
+    "ability.sculk_cast.name": "Эхо",
+    "ability.sculk_cast.description": "Пускает звуковую волну, поражающаю врагов",
+
+    "----------- ITEM ABILITIES - CONSUMEABLE -----------": "",
+
+    "ability.heal_effect.name": "Исцеление",
+    "ability.heal_effect.description": "Восстанавливает 60% здоровья при потреблении",
+
+    "ability.small_heal_effect.name": "Небольшое исцеление",
+    "ability.small_heal_effect.description": "Восстанавливает 25% здоровья при потреблении",
+
+    "ability.duplicate_artifacts.name": "Дублирование артефактов",
+    "ability.duplicate_artifacts.description": "Создаёт дубликат всех артефактов в радиусе 32 блоков",
+
+    "ability.change_artifacts.name": "Полный кавардак",
+    "ability.change_artifacts.description": "Заменяет все артефакты в радиусе 32 блоков",
+
+    "ability.packing.name": "Упаковка",
+    "ability.packing.description": "Превращает всех монстров в радиусе 20 блоков в горшки",
+
+    "ability.summon_artifacts.name": "Призыв артефактов",
+    "ability.summon_artifacts.description": "В обмен на вашу жизнь создаёт 8 артефактов",
+
+    "ability.gold_rush.name": "Золотая лихорадка",
+    "ability.gold_rush.description": "Преобразует всех монстров в радиусе 12 блоков в монеты",
+
+    "----------- ITEM ABILITIES - WEAPON -----------": "",
+
+    "ability.area_hit.name": "Область поражения",
+    "ability.area_hit.description": "Атакует всех врагов в небольшом радиусе",
+
+    "ability.big_area_hit.name": "Область поражения +",
+    "ability.big_area_hit.description": "Атакует всех врагов в среднем радиусе",
+
+    "ability.huge_area_hit.name": "Область поражения ++",
+    "ability.huge_area_hit.description": "Атакует всех врагов в большом радиусе",
+
+    "ability.giant_area_hit.name": "Область поражения +++",
+    "ability.giant_area_hit.description": "Атакует всех врагов в огромном радиусе",
+
+    "ability.bubble_laser.name": "Пузырьковый лазер",
+    "ability.bubble_laser.description": "При использовании предмета атакует пузырьковым лазером врага перед вами",
+
+    "ability.fire_blade.name": "Горящее лезвие",
+    "ability.fire_blade.description": "Поджигает врага при ударе",
+
+    "ability.wind_gust.name": "Порыв ветра",
+    "ability.wind_gust.description": "Запускает игрока в направлении взляда",
+
+    "ability.narwhal_punch.name": "Удар нарвала",
+    "ability.narwhal_punch.description": "Если у врага меньше 50% здоровье, есть 15% шанс моментально убить его",
+
+    "ability.dynamite_punch.name": "Взрывной удар",
+    "ability.dynamite_punch.description": "Создаёт взрыв при ударе",
+
+    "ability.robbery.name": "Грабёж",
+    "ability.robbery.description": "При убийстве монстра вы получаете 1/4 от его макс. здоровья в виде монет",
+
+    "----------- STATS -----------": "",
+
+    "stats.first.message": "Ваша игровая статистика:",
+
+    "stats.total_damage_dealt.message": "- Всего нанесено %s урона",
+    "stats.total_damage_taken.message": "- Всего получено %s урона",
+
+    "stats.max_onetime_damage_dealt.message": "- Максимальный нанесеный разовый урон -> %s",
+    "stats.max_onetime_damage_taken.message": "- Максимальный полученый разовый урон -> %s",
+
+    "stats.total_healing_self.message": "- Исцеление себя -> %s",
+    "stats.total_healing_other.message": "- Исцеление других -> %s",
+
+    "stats.total_entity_killed.message": "- Всего убито монстров -> %s",
+
+    "stats.total_collected_artifacts.message": "- Всего собрано артефактов -> %s",
+
+    "stats.total_money_earned.message": "- Заработано %s монет",
+    "stats.total_money_spend.message": "- Потрачено %s монет",
+
+    "stats.total_death_times.message": "- Смерти -> %s",
+
+    "stats.total_pots_break.message": "- Сломано горшков -> %s",
+
+    "stats.total_mobs_summoned.message": "- Призвано существ -> %s",
+
+    "stats.total_item_consumed.message": "- Использовано предметов -> %s",
+
+    "----------- CHOICE -----------": "",
+
+    "choice.start.name": "",
+
+    "choice.normal.name": "Обычный этаж",
+    "choice.elite.name": "Усиленный этаж",
+    "choice.boss.name": "Босс",
+
+    "choice.challenge.name": "Испытание",
+    "choice.shop.name": "Магазин",
+    "choice.forge.name": "Кузня",
+    "choice.treasure.name": "Сокровищница"
+}

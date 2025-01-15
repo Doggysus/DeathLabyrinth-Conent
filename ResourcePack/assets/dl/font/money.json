@@ -1,0 +1,21 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "dl:monocraft.ttf",
+            "shift": [0, 23],
+			"size": 8.0,
+			"oversample": 8.0,
+			"height": 8
+        },
+		{
+			"type": "bitmap",
+            "file": "dl:custom/ui_coin.png",
+			"ascent": 7,
+			"height": 31,
+			"chars": [
+				"\uE000"
+			]
+		}
+    ]
+}
