@@ -1,0 +1,13 @@
+{
+  "port": 33143,
+  "maxPlayers": 2,
+  "GameMode": "creative",
+  "motd": "Мир в локальной сети",
+  "AllPlayersCheats": true,
+  "Whitelist": false,
+  "UseUPnP": true,
+  "AllowCommands": true,
+  "OnlineMode": false,
+  "PvP": true,
+  "CopyToClipboard": true
+}
